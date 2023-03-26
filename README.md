@@ -11,7 +11,7 @@ My cohort is currently learning about ADO.NET and SQL. Next we will start an int
 I would love the opportunity to collaborate on a project where I would get to utilize my passion for design.
 
 ## 📫 How to reach me ...
-Feel free to reach out to me via email at jennykayekitchen@gmail.com or connect with me on [LinkedIn] (https://www.linkedin.com/in/jenny-kaye-kitchen/). I'm always happy to connect with fellow devs and NSS classmates!
+Feel free to reach out to me via email at jennykayekitchen@gmail.com or connect with me on <a href="https://www.linkedin.com/in/jenny-kaye-kitchen/">LinkedIn</a>. I'm always happy to connect with fellow devs and NSS classmates!
 
 <!--
 **jennykayekitchen/jennykayekitchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
