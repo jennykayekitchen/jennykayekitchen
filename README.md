@@ -4,12 +4,12 @@ I am a current student in the Full-Stack Web Developer Bootcamp for C# And .NET 
 ## 🔭 I’m currently working on ...
 Checkout my completed front end capstone for NSS called [My Version!](https://github.com/jennykayekitchen/My-Version)
 
-I just completed a side project called [ClassApp](https://github.com/jennykayekitchen/ClassApp) with an NSS classmate. Check it out!
+I am currently working on my final capstone, a full stack project called The Junior Tri-Wizard Tournament!
 
 Next, I will be working on a personal website to showcase the projects I have completed. 
 
 ## 🌱 I’m currently learning ...
-My cohort will begin covering ASP.NET Core and Web API's on 4/10/23.
+My cohort has finished our instruction on Web API's and now we are starting on our final capstones that will be presented on 5/12/23!
 
 ## 👯 I’m looking to collaborate on ...
 I would love the opportunity to collaborate on a project where I would get to utilize my passion for design.
