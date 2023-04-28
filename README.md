@@ -2,7 +2,7 @@
 I am a current student in the Full-Stack Web Developer Bootcamp for C# And .NET at Nashville Software School and will graduate in mid-May 2023. My passion lies in design and I love using my creativity to find solutions and make things more efficient, whether that's through elegant user interfaces, streamlined processes, or optimized workflows. 
 
 ## 🔭 I’m currently working on ...
-Checkout my completed front end capstone for NSS called [My Version!](https://github.com/jennykayekitchen/My-Version)
+Checkout my completed front end capstone for NSS called [My Version!](https://github.com/jennykayekitchen/My-Version) and a side project I did called [ClassApp](https://github.com/jennykayekitchen/ClassApp).
 
 I am currently working on my final capstone, a full stack project called The Junior Tri-Wizard Tournament!
 
