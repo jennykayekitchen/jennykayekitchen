@@ -4,7 +4,7 @@ I am a current student in the Full-Stack Web Developer Bootcamp for C# And .NET 
 ## 🔭 I’m currently working on ...
 Checkout my completed front end capstone for NSS called [My Version](https://github.com/jennykayekitchen/My-Version) and a side project I did called [ClassApp](https://github.com/jennykayekitchen/ClassApp)!
 
-I am currently working on my final capstone, a full stack project called The Junior Tri-Wizard Tournament!
+View my final capstone, a full stack application called [The Junior Tri-Wizard Tournament](https://github.com/jennykayekitchen/tri-wizard-tournament)!
 
 Next, I will be working on a personal website to showcase the projects I have completed. 
 
