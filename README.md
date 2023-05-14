@@ -6,7 +6,7 @@ Checkout my completed front end capstone for NSS called [My Version](https://git
 
 View my final capstone, a full stack application called [The Junior Tri-Wizard Tournament](https://github.com/jennykayekitchen/tri-wizard-tournament)!
 
-Next, I will be working on a personal website to showcase the projects I have completed. 
+Next, I will be working to convert my front-end project to full stack applications and to deploy them. 
 
 ## 🌱 I’m currently learning ...
 My cohort has finished our instruction on Web API's and now we are starting on our final capstones that will be presented on 5/12/23!
