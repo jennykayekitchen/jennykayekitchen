@@ -9,7 +9,7 @@ View my final capstone, a full stack application called [The Junior Tri-Wizard T
 Next, I will be working to convert my front-end projects to full stack applications and to deploy them. 
 
 ## 🌱 I’m currently learning ...
-I am continuing to learn and work on projects post-graduation, with plans to jump into AWS.
+I am continuing to learn and work on projects post-graduation, and I've started online courses for QA and TypeScript.
 
 ## 👯 I’m looking to collaborate on ...
 I would love the opportunity to collaborate on a project where I would get to utilize my passion for design.
